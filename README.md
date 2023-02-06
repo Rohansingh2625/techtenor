@@ -1,0 +1,2 @@
+# techtenor
+affiliate website
